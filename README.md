@@ -18,15 +18,13 @@
 
 # how to set up the project :
 
-- 1- git repo : git clone git@bitbucket.org:mounach/nostroflix.git
+- 1- install mongoDB localy
 
-- 2- install mongoDB localy
+- 2- exec this command to import node modules : $ npm install
 
-- 3- exec this command to import node modules : $ npm install
+- 3- exec this command to run the API : $ npm start
 
-- 4- exec this command to run the API : $ npm start
-
-- 5- use postman to try the API :
+- 4- use postman to try the API :
 
 //-----------------------------------------------------------------//
     GET    : 
