@@ -1,0 +1,19 @@
+nostroflix plateforme multimédia disponible sur toute les plateformes
+ qui propose une bibliothèque de film et série a regarder en streaming
+
+le cahier des charges nous permettait 2 directions techniques pour la partie
+ application mobile : 
+
+--> une application isomorphique PWA (Progressive Web App), consultable via le
+navigateur web depuis un téléphone mobile
+
+--> 	une application mobile hybride (ex : Vue.js + NativeScript) compilée vers Android ou iOS
+(via Xcode / Android Studio)
+
+
+
+
+
+
+Plus value fonctionel
+Crée des routines chez l'utilisateurs ( inviter à laisser un message à la fin du film etc...)​
